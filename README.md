@@ -1,5 +1,7 @@
-<center><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dtorres-?1337Badge=off&UM6P=off" alt="dtorres-'s 42 stats" /></a></center>
-<!--
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dtorres-?1337Badge=off&UM6P=off" alt="dtorres-'s 42 stats" /></a>
+</p>
+  <!--
 **dtorresss/dtorresss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
