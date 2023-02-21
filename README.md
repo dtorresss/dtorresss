@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://profile.intra.42.fr/users/dtorres-"><img src="https://badge.mediaplus.ma/greenbinary/dtorres-?1337Badge=off&UM6P=off" alt="dtorres-'s 42 stats" target="_blank"/></a>
+<a href="https://profile.intra.42.fr/users/dtorres-"><img src="https://badge.mediaplus.ma/greenbinary/dtorres-?1337Badge=off&UM6P=off" alt="dtorres-'s 42 stats"/></a>
 </p>
   <!--
 **dtorresss/dtorresss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
